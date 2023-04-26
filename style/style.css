@@ -20,7 +20,7 @@ header {
     text-align: center;
     line-height: 150px;
     box-shadow: #333333;
-    background-image: url("/img/boekel.jpg");
+    background-image: url("../img/boekel.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
